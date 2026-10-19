@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Circular container for a modern badge look -->
+    <item
+        android:bottom="14dp"
+        android:left="14dp"
+        android:right="14dp"
+        android:top="14dp">
+        <shape android:shape="oval">
+            <solid android:color="@color/white" />
+            <stroke
+                android:width="1dp"
+                android:color="@color/icon_container_outline" />
+        </shape>
+    </item>
+
+    <!-- The logo, shifted right to center the 'CLASSIFIED' text -->
+    <item
+        android:drawable="@drawable/ic_launcher_logo"
+        android:gravity="center"
+        android:left="5dp"
+        android:width="76dp"
+        android:height="76dp" />
+</layer-list>

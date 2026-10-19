@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026985176674",
+    "project_id": "classified-86556",
+    "storage_bucket": "classified-86556.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026985176674:android:23d52579ee8aaaa3742b3b",
+        "android_client_info": {
+          "package_name": "com.example.canetracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt8WC8XyXNB0FfMPEOrofic7JTT215X7Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
